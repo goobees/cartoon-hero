@@ -1,0 +1,65 @@
+body{
+    margin: 0px;
+    font-family: fantasy;
+    font-size: 15px;
+    line-height: 30px;
+}
+header{
+    background-color: rgb(221, 202, 173);
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+h1,h2{
+    font-family: 'Moon Dance', cursive;
+    font-size: 45px;
+    text-decoration-line: underline; text-decoration-color: rgb(0, 0, 0);
+}
+header h1{
+    color: brown;
+    }
+header img{
+    border-radius: 900px;
+    width: 250px;
+    border: 9px solid rgb(0, 0, 0);
+}
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px 20px 20px 20px;
+}
+main img{
+    max-width: 100%;
+}
+h2{
+    font-size: 35px;
+    color: rgb(3, 54, 12);
+    margin: 0 auto;
+}
+h2 p{
+    font-size: 15px;
+}
+a{
+    color: rgb(69, 69, 247);
+}
+a:hover{
+    color: black;
+    background-color: rgb(180, 179, 179);
+}
+footer{
+    color: brown;
+    background-color: lightgray;
+    text-align: center;
+    padding: 5px;
+}
+footer p{
+    margin: 0px;
+}
+footer a{
+    color: brown;
+}
+footer a:hover{
+    opacity: 15%;
+    background-color: transparent;
+
+}
